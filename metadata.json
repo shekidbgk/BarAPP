@@ -1,0 +1,6 @@
+{
+  "name": "BarOps — Управление баром и рестораном",
+  "description": "Мобильная операционная система для управления баром и рестораном: чек-листы смен, задачи команды, складской учет и заявки поставщикам.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
